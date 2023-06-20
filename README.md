@@ -8,4 +8,4 @@ Baidu Netdisk: https://pan.baidu.com/s/1aNyFr6ichebvqEEgpymh1w  password:ste6
 
 You can download the codes and our trained model of LCQMC dataset from here:
 
-Baidu Netdisk: https://pan.baidu.com/s/1WamMWS6aEB9xIFkhb56mKA  password:acdj
+Baidu Netdisk: https://pan.baidu.com/s/1hbkQNmWm9REXncJ4WEiUDg  password:8zq1
